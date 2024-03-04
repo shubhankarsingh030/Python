@@ -1,5 +1,5 @@
 #  IF ELSE QUESTIONS
-# Question - 1
+# Question - 1 Accept two number and print the greatest between them
 
 # a = int(input("Add Your First Number"))
 # b = int(input("Add Your Second Number"))
@@ -10,7 +10,7 @@
 # else:
 #     print("Both are equal")
 
-# Question - 2
+# Question - 2 - accept the gender and print theire greeting according to them
 
 # Gender = input("Write your Gender As F or M")
 
@@ -21,14 +21,14 @@
 # else:
 #     print("Wrong Input")
 
-# Question - 3
+# Question - 3 - accept and integer and check whether it is an even number or not
 # a = int(input("Write your Number"))
 # if a % 2 == 0:
 #     print("Your number is a Even Number")
 # else:
 #     print("Your number is a Odd Number")
 
-#  Question - 4
+#  Question - 4 - accept name and age and check are they eligible for vote or nt
 
 # name = input("Tell Your Name")
 # age = int(input("Enter your Age"))
@@ -40,7 +40,7 @@
 # else:
 #     print("Enter your valid age")
 
-# Question - 5
+# Question - 5 - accept a year and check it is leap year or not
     
 # year = int(input("Enter your year"))
 
@@ -51,7 +51,7 @@
 # else:
 #     print("it's not a leap year")
 
-# Question - 6
+# Question - 6 - accept an english alphabet and check it is consonant or vowel
 
 # z = input("Enter your English Alphabet")
 
